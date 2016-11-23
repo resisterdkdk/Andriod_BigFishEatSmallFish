@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explosion3.wav",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\explosion3.wav"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bigexplosion.wav",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\bigexplosion.wav"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bgm.wav",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\bgm.wav"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explosion.wav",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\explosion.wav"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\get_goods.wav",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\get_goods.wav"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\end.wav",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\end.wav"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\upgrade.wav",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\upgrade.wav"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shoot.mp3",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\shoot.mp3"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\button.wav",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\button.wav"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explosion2.mp3",
+        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\raw\\explosion2.mp3"
+    }
+]
