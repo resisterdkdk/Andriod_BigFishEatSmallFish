@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 58,
+                        "startOffset": 59,
                         "endColumn": 48,
-                        "endOffset": 102
+                        "endOffset": 103
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 152
                 },
                 "from": {
-                    "file": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 108,
+                        "startOffset": 109,
                         "endColumn": 52,
-                        "endOffset": 156
+                        "endOffset": 157
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 203
                 },
                 "from": {
-                    "file": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 162,
+                        "startOffset": 163,
                         "endColumn": 50,
-                        "endOffset": 208
+                        "endOffset": 209
                     }
                 }
             },
@@ -69,14 +69,14 @@
                     "endOffset": 494
                 },
                 "from": {
-                    "file": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 484
                     }
                 }
             },
@@ -90,14 +90,14 @@
                     "endOffset": 654
                 },
                 "from": {
-                    "file": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 682
                     }
                 }
             }

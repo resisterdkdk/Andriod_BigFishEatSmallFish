@@ -5,13 +5,11 @@ import java.util.List;
 import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
-import java.util.logging.Handler;
 
 import com.example.constant.ConstantUtil;
 import com.example.factory.GameObjectFactory;
 import com.example.mybeatplane.R;
 import com.example.object.BigPlane;
-import com.example.object.BossPlane;
 import com.example.object.EnemyPlane;
 import com.example.object.GameObject;
 import com.example.object.MiddlePlane;
@@ -72,7 +70,7 @@ public class MainView extends BaseView{
 	private stopGood StopGood;
 	private Bitmap missile_bt;		// 导弹按钮图标
 	private MyPlane myPlane;		// 玩家的飞机
-	private BossPlane bossPlane;	// boss飞机
+	//private BossPlane bossPlane;	// boss飞机
 	private List<EnemyPlane> enemyPlanes;
 	private GameObjectFactory factory;
 	public MainView(Context context,GameSoundPool sounds) {

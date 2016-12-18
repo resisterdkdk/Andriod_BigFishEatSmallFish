@@ -1,37 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
+    abi="x86"
+    api-level="24"
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="2630890291450"
-    token="-6310669274015648951"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="4992297638750"
+    token="-941355047249357523"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="444" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="319" />
+        duration="0" />
     <task
         name="verifier"
-        duration="46" />
+        duration="0" />
 
     <artifact
-        location="E:\Users\Administrator\AndroidStudioProjects\MyBeatPlane1\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="E:\Users\fish3\Andriod_BigFishEatSmallFish\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="2630890291450"
+        timestamp="4689264978373"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\Users\Administrator\AndroidStudioProjects\MyBeatPlane1\app\build\outputs\apk\app-debug.apk"
+            location="E:\Users\fish3\Andriod_BigFishEatSmallFish\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="4992297638750"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\Users\fish3\Andriod_BigFishEatSmallFish\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

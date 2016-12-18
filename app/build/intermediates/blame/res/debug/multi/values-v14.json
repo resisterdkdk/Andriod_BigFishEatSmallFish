@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 225,
+                        "startOffset": 227,
                         "endLine": 9,
                         "endColumn": 12,
-                        "endOffset": 373
+                        "endOffset": 375
                     }
                 }
             }

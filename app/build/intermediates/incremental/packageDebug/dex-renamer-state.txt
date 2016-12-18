@@ -1,7 +1,7 @@
-#Wed Nov 23 08:07:55 CST 2016
-base.0=E\:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ed8a433d1d7feaa36feda59266ab2f557e573d50
+#Sun Dec 18 08:03:17 CST 2016
+base.0=E\:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d3cd7dfb97b39a1407941b9c0b4bc1b96ef05cf4
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=E\:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d734fcb1526afc519989e1b8a89159d3f17960d2\\classes.dex
-base.1=E\:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d734fcb1526afc519989e1b8a89159d3f17960d2
-file.0=E\:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ed8a433d1d7feaa36feda59266ab2f557e573d50\\classes.dex
+file.1=E\:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e04354973e21d36cc717058583c5430669c78ae0\\classes.dex
+base.1=E\:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e04354973e21d36cc717058583c5430669c78ae0
+file.0=E\:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d3cd7dfb97b39a1407941b9c0b4bc1b96ef05cf4\\classes.dex

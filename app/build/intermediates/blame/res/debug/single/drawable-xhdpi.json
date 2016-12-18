@@ -1,6 +1,190 @@
 [
     {
-        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "E:\\Users\\Administrator\\AndroidStudioProjects\\MyBeatPlane1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boss_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\boss_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\good.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\good.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\missile_goods.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\missile_goods.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\big_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\big_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\button2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\big_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\big_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish1_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish1_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\missile_bt.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\missile_bt.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bossbullet.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bossbullet.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bossplane.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bossplane.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\middle.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish5_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish5_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bt_exit.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bt_exit.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish3_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish3_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish7_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish7_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish6_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish6_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish2_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish2_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bullet.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bullet.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish4_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish4_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\button.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bullet2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bullet2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bossplanebomb.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bossplanebomb.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish2_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish2_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\middle_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish3_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish3_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish1_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish1_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bullet_goods.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bullet_goods.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\small_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\small_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\big.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\big.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bt_restart.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bt_restart.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fly.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\fly.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\planeicon.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\planeicon.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\small.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\small.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish6_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish6_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bt_start.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bt_start.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish5_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish5_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boss_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\boss_1.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish4_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish4_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myfish7_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myfish7_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\bg2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\small_2.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\small_2.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\text.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myplaneexplosion.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myplaneexplosion.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myplane.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\myplane.png"
+    },
+    {
+        "merged": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle_1.png",
+        "source": "E:\\Users\\fish3\\Andriod_BigFishEatSmallFish\\app\\src\\main\\res\\drawable-xhdpi\\middle_1.png"
     }
 ]

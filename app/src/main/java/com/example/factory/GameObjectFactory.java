@@ -3,7 +3,6 @@ package com.example.factory;
 import android.content.res.Resources;
 
 import com.example.object.BigPlane;
-import com.example.object.BossPlane;
 import com.example.object.GameObject;
 import com.example.object.MiddlePlane;
 import com.example.object.MyPlane;
@@ -25,9 +24,9 @@ public class GameObjectFactory {
 		return new BigPlane(resources);
 	}
 	//创建BOSS敌机的方法
-	public GameObject createBossPlane(Resources resources){
+	/*public GameObject createBossPlane(Resources resources){
 		return new BossPlane(resources);
-	}
+	}*/
 	//创建玩家飞机的方法
 	public GameObject createMyPlane(Resources resources){
 		return new MyPlane(resources);

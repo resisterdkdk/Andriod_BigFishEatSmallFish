@@ -119,5 +119,11 @@ public class BigPlane extends EnemyPlane{
 		if(!bigFish1.isRecycled()){
 			bigFish1.recycle();
 		}
+		if(!BossFish.isRecycled()){
+			BossFish.recycle();
+		}
+		if(!BossFish1.isRecycled()){
+			BossFish1.recycle();
+		}
 	}
 }

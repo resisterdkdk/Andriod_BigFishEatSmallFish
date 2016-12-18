@@ -3,12 +3,30 @@
 
     <item
         is-multidex="true"
+        jar="E:\Users\fish3\Andriod_BigFishEatSmallFish\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d262c03742ec9a2346c9ba335d04487bd72c6084">
+        <dex dex="E:\Users\fish3\Andriod_BigFishEatSmallFish\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d3cd7dfb97b39a1407941b9c0b4bc1b96ef05cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\Users\Administrator\AndroidStudioProjects\MyBeatPlane1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="1f7869e4b3c6371f4e48e0e6a55517ea29171f1e">
         <dex dex="E:\Users\Administrator\AndroidStudioProjects\MyBeatPlane1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d734fcb1526afc519989e1b8a89159d3f17960d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AS\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Users\Administrator\AndroidStudioProjects\MyBeatPlane1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_ef438c7a750fe0a6975eb4fe289a18e77855f9cb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,12 +39,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="E:\AS\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="E:\Users\fish3\Andriod_BigFishEatSmallFish\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="E:\Users\Administrator\AndroidStudioProjects\MyBeatPlane1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_ef438c7a750fe0a6975eb4fe289a18e77855f9cb\classes.dex" />
+        sha1="5308d47130949fe8c4a9346f0dde1b3acdd90268">
+        <dex dex="E:\Users\fish3\Andriod_BigFishEatSmallFish\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e04354973e21d36cc717058583c5430669c78ae0\classes.dex" />
     </item>
 
 </items>
